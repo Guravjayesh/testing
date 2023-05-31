@@ -1,0 +1,9 @@
+About me :
+Machine Learning
+Data Analysis
+Computer Vision
+Web Programmer
+
+
+
+npm run dev
